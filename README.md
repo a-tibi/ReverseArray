@@ -1,1 +1,3 @@
-"# ReverseArray" 
+"# ReverseArray"
+
+Without using LINQ
